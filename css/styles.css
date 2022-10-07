@@ -1,0 +1,27 @@
+
+* {
+    margin: 0px;
+}
+
+section {
+    width: 100%;
+    min-height: 400px;
+    text-align: center;
+}
+
+.jumbotron {
+    height: 400px;
+    background-image: url("../img/bg1.jpg");
+    background-size: cover;
+}
+#speakers {
+}
+#tickets {
+    height: 400px;
+}
+
+.venue-photograph {
+    background-image: url("../img/bg2.jpg");
+    background-size: cover;
+}
+
