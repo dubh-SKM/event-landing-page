@@ -3,21 +3,30 @@
     margin: 0px;
 }
 
+nav {
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+
 section {
     width: 100%;
-    min-height: 400px;
     text-align: center;
+    font-family: 'Raleway', sans-serif;
 }
 
 .jumbotron {
     height: 400px;
     background-image: url("../img/bg1.jpg");
     background-size: cover;
+    background-position: center;
 }
 #speakers {
 }
 #tickets {
     height: 400px;
+}
+#venue {
 }
 
 .venue-photograph {
@@ -25,3 +34,29 @@ section {
     background-size: cover;
 }
 
+
+
+
+/* Fonts */
+
+/* font-family: 'Aldrich', sans-serif;
+font-family: 'Barlow', sans-serif;
+font-family: 'Bungee Hairline', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Encode Sans SC', sans-serif;
+font-family: 'IBM Plex Mono', monospace;
+font-family: 'IM Fell English SC', serif;
+font-family: 'Michroma', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Subrayada', sans-serif;
+font-family: 'Nanum Myeongjo', serif;
+font-family: 'Noto Serif HK', serif;
+font-family: 'Odibee Sans', cursive;
+font-family: 'Play', sans-serif;
+font-family: 'Prompt', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Rubik Dirt', cursive;
+font-family: 'Russo One', sans-serif;
+font-family: 'Silkscreen', cursive;
+font-family: 'Staatliches', cursive;
+font-family: 'Ubuntu', sans-serif; */
