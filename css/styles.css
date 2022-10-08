@@ -1,11 +1,14 @@
 
 * {
     margin: 0px;
+    
 }
 
 nav {
     font-family: 'Raleway', sans-serif;
 }
+
+
 
 section {
     width: 100%;
@@ -25,12 +28,9 @@ section {
     height: 400px;
 }
 #venue {
+    min-height: 500px;
 }
 
-.venue-photograph {
-    background-image: url("../img/bg2.jpg");
-    background-size: cover;
-}
 
 
 
